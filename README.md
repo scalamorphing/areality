@@ -32,8 +32,17 @@ to something encodable:
 * **action** is just a tuple of **(sight, touch, sound)**
 * **action** being done never stops until the end of **the areal universe**
 * There is no such notion as **always** and **never**
+* There is no such notion as **time** but **state** exists
+* **areality** is **finite state machine** which
+    is an approximation of **infinite areality state**
 
 I extracted all these statements from my common sense. I have no idea why I
 find them importand enough to be placed here.
 
 They're just the **rules** of **areality**.
+
+## Some thoughts on the topic
+
+* **infinite areality state** ~ **infinite set of finite state machines**
+* **each element of areality** is **areality itself**
+* **we can't distinguish one areality from another being inside it**
